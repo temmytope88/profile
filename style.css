@@ -1,0 +1,71 @@
+  
+    .a{
+      height: 320px;
+      width: 1330px;
+      background-color: rgb(80, 145, 230);
+    }
+    h3{
+      font-size: x-large;
+      font-family: fantasy;
+    }
+
+   body{
+     background-color:rgb(224, 224, 247);
+      font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif }
+
+    .c{width: 1000px;
+      height: 400px;
+      
+      position: relative;
+      left: 150px;
+      top: 80px;
+    }
+    img{height: 400px;
+      width: 200px;
+    }
+  .name{height: 100px;
+    width:800px;
+    background-color: whitesmoke;
+    float:right;
+    position: relative;
+    top: -404px;
+  background-color: green; }
+
+  .other{
+      height: 300px;
+      width: 800px;
+      background-color: gainsboro;
+      float: right;
+      position: relative;
+      top:-404px;
+    }
+
+    .pad{
+      padding-left: 40px;
+    }
+    .form{
+      width: 1000px;
+      height: 400px;
+      position: relative;
+      left: 0px;
+      top:-20px;
+      background-color:green;
+      color:black;
+    }
+
+    form{position: relative;
+    left:250px;}
+    input{font-size: 14;
+        color: grey;
+       border: grey solid, 3px;
+        background-color: rgb(224, 224, 247);
+        width: 180px;
+      height:25px ;}
+
+      .font{font-style: oblique;
+        color:darkblue;
+        font-size: larger;
+        font-weight: 300;
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      }
+      .pad1{font-size: 16px;}
